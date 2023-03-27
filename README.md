@@ -18,6 +18,8 @@ Almost done but I have to finish the config file first that is bugging for some 
 
 A text editor like the windows bloc-note but opening all kind of texts that python read (like pdf) without hidding things, and customisable.
 
+It will create a .ini file at the root where you launch the executable file to save your theme preferences
+
 It's only reading rough text, so you can't make advanced ascii with and I will not improve this.
 
 In release section you can download an executable ready to launch (portable) made for windows with pyinstaller.
