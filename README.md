@@ -29,6 +29,12 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 Or compile it by yourself , I made a tutorial downside of this page.
 
 
+News :
+
+- Tabs
+- Edit this kind csv, pdf, yaml, xml, tsv,json, md, txt in rough text only ( no layout no ascii )
+- Saved customisable theme
+
 ![Capture d'écran 2023-03-27 102657](https://user-images.githubusercontent.com/92639080/227885281-b307e902-8408-4e26-97b4-8645a45663c6.png)
 
 # :scroll: License
