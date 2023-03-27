@@ -1,9 +1,5 @@
 Python 3.11 | ONLINE + Windows EXE | v1.0.0 
 
-# !!! COMING SOON !!!
-
-Almost done but I have to finish the config file first that is bugging for some reason !
-
 ```
 ███████╗ ██████╗██████╗ ██╗██████╗ ███████╗
 ██╔════╝██╔════╝██╔══██╗██║██╔══██╗██╔════╝
