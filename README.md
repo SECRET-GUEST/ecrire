@@ -25,7 +25,8 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 Or compile it by yourself , I made a tutorial downside of this page.
 
 
-![barcraft 27032023](https://user-images.githubusercontent.com/92639080/227857478-39eb0f9e-e665-4a3c-9b24-20227c16a0df.png)
+![Capture d'écran 2023-03-27 102455](https://user-images.githubusercontent.com/92639080/227884622-11c9824b-7088-40c5-b20d-e5d38498da58.png)
+
 
 # :scroll: License
 
@@ -36,7 +37,7 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
 
-[![Download barcraft](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/barcraft/files/latest/download)
+
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
