@@ -1,4 +1,4 @@
-Python 3.11 | ONLINE + Windows EXE | v1.0.0 
+[![Download ecrire](https://img.shields.io/sourceforge/dt/ecrire.svg)](https://sourceforge.net/projects/ecrire/files/latest/download)Python 3.11 | ONLINE + Windows EXE | v1.0.0 
 
 ```
 ███████╗ ██████╗██████╗ ██╗██████╗ ███████╗
@@ -24,6 +24,7 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 
 Or compile it by yourself , I made a tutorial downside of this page.
 
+[![Download ecrire](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ecrire/files/latest/download)
 
 News :
 
