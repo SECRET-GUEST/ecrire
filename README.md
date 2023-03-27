@@ -1,4 +1,4 @@
-[![Download ecrire](https://img.shields.io/sourceforge/dt/ecrire.svg)](https://sourceforge.net/projects/ecrire/files/latest/download)Python 3.11 | Windows EXE | v1.0.0 
+[![Download ecrire](https://img.shields.io/sourceforge/dt/ecrire.svg)](https://sourceforge.net/projects/ecrire/files/latest/download)Python 3.11 | Windows EXE | Beta 
 
 ```
 ███████╗ ██████╗██████╗ ██╗██████╗ ███████╗
