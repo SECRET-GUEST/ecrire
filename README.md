@@ -40,6 +40,7 @@ BTW, if you are searching for more desk tools to opmtimize your productivity you
 - A simple tool to remove python commentaries : https://github.com/SECRET-GUEST/silence
 - A font lister, that can list your font in pdf with images : https://github.com/SECRET-GUEST/font_lister
 - A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
+- Pretty useless but a little tool to count the number of lines you've coded, you select a folder, it will search including the subfolders and read all lines : https://github.com/SECRET-GUEST/How-Many-Books-Have-I-Written-As-A-Developer
 
 And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
