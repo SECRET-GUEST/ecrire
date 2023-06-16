@@ -35,14 +35,6 @@ News :
 ![Capture d'écran 2023-03-27 102657](https://user-images.githubusercontent.com/92639080/227885281-b307e902-8408-4e26-97b4-8645a45663c6.png)
 
 
-BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
-
-- A simple tool to remove python commentaries : https://github.com/SECRET-GUEST/silence
-- A font lister, that can list your font in pdf with images : https://github.com/SECRET-GUEST/font_lister
-- A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
-- Pretty useless but a little tool to count the number of lines you've coded, you select a folder, it will search including the subfolders and read all lines : https://github.com/SECRET-GUEST/How-Many-Books-Have-I-Written-As-A-Developer
-
-And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
 
 # :scroll: License
@@ -54,6 +46,17 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
 
+# :gem: Recommendations  
+
+In your quest for more tools to enhance your desktop productivity, these additional repositories are worth exploring:
+
+- [Silence](https://github.com/SECRET-GUEST/silence) : A simple tool designed to remove Python commentaries swiftly.
+- [Font Lister](https://github.com/SECRET-GUEST/font_lister) : This tool can list your fonts in a PDF, complete with images.
+- [AutoClicker](https://github.com/SECRET-GUEST/autoclicker) : A powerful tool that can automate clicks.
+- [How Many Books Have I Written As A Developer](https://github.com/SECRET-GUEST/How-Many-Books-Have-I-Written-As-A-Developer) : Although it may seem trivial, this tool can count the number of lines you've coded. Simply select a folder, and it will search including subfolders and read all lines.
+
+For more useful scripts without a graphical user interface but that are nonetheless user-friendly, check out: 
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
 
 
 
